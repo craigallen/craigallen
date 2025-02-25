@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Craig – a front-end web developer with a background in building websites with WordPress.
+I’m Craig – a front-end developer.
 
-🌱 Currently I'm focused on UX design and accessibility.
+🌱 I'm currently learning JavaScript and React.
 
 <!--
 **craigallen/craigallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
